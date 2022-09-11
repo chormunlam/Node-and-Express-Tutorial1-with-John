@@ -1,0 +1,23 @@
+{
+  "name": "node_fundamental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chormunlam/Node-and-Express-fundamental-with-John.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chormunlam/Node-and-Express-fundamental-with-John/issues"
+  },
+  "homepage": "https://github.com/chormunlam/Node-and-Express-fundamental-with-John#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
